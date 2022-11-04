@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\techlift\ceaser-cypher\Cards_Logic_LuhnsAlgorithm\Cards_Logic_LuhnsAlgorithm\bin\Debug\netcoreapp3.1\Cards_Logic_LuhnsAlgorithm.exe
+C:\Users\Admin\Desktop\techlift\ceaser-cypher\Cards_Logic_LuhnsAlgorithm\Cards_Logic_LuhnsAlgorithm\bin\Debug\netcoreapp3.1\Cards_Logic_LuhnsAlgorithm.deps.json
+C:\Users\Admin\Desktop\techlift\ceaser-cypher\Cards_Logic_LuhnsAlgorithm\Cards_Logic_LuhnsAlgorithm\bin\Debug\netcoreapp3.1\Cards_Logic_LuhnsAlgorithm.runtimeconfig.json
+C:\Users\Admin\Desktop\techlift\ceaser-cypher\Cards_Logic_LuhnsAlgorithm\Cards_Logic_LuhnsAlgorithm\bin\Debug\netcoreapp3.1\Cards_Logic_LuhnsAlgorithm.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\techlift\ceaser-cypher\Cards_Logic_LuhnsAlgorithm\Cards_Logic_LuhnsAlgorithm\bin\Debug\netcoreapp3.1\Cards_Logic_LuhnsAlgorithm.dll
+C:\Users\Admin\Desktop\techlift\ceaser-cypher\Cards_Logic_LuhnsAlgorithm\Cards_Logic_LuhnsAlgorithm\bin\Debug\netcoreapp3.1\Cards_Logic_LuhnsAlgorithm.pdb
+C:\Users\Admin\Desktop\techlift\ceaser-cypher\Cards_Logic_LuhnsAlgorithm\Cards_Logic_LuhnsAlgorithm\obj\Debug\netcoreapp3.1\Cards_Logic_LuhnsAlgorithm.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\techlift\ceaser-cypher\Cards_Logic_LuhnsAlgorithm\Cards_Logic_LuhnsAlgorithm\obj\Debug\netcoreapp3.1\Cards_Logic_LuhnsAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\techlift\ceaser-cypher\Cards_Logic_LuhnsAlgorithm\Cards_Logic_LuhnsAlgorithm\obj\Debug\netcoreapp3.1\Cards_Logic_LuhnsAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\techlift\ceaser-cypher\Cards_Logic_LuhnsAlgorithm\Cards_Logic_LuhnsAlgorithm\obj\Debug\netcoreapp3.1\Cards_Logic_LuhnsAlgorithm.AssemblyInfo.cs
+C:\Users\Admin\Desktop\techlift\ceaser-cypher\Cards_Logic_LuhnsAlgorithm\Cards_Logic_LuhnsAlgorithm\obj\Debug\netcoreapp3.1\Cards_Logic_LuhnsAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\techlift\ceaser-cypher\Cards_Logic_LuhnsAlgorithm\Cards_Logic_LuhnsAlgorithm\obj\Debug\netcoreapp3.1\Cards_Logic_LuhnsAlgorithm.dll
+C:\Users\Admin\Desktop\techlift\ceaser-cypher\Cards_Logic_LuhnsAlgorithm\Cards_Logic_LuhnsAlgorithm\obj\Debug\netcoreapp3.1\Cards_Logic_LuhnsAlgorithm.pdb
+C:\Users\Admin\Desktop\techlift\ceaser-cypher\Cards_Logic_LuhnsAlgorithm\Cards_Logic_LuhnsAlgorithm\obj\Debug\netcoreapp3.1\Cards_Logic_LuhnsAlgorithm.genruntimeconfig.cache

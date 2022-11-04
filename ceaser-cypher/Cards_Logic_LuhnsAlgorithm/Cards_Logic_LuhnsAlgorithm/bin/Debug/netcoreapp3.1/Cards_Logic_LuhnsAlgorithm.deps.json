@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Cards_Logic_LuhnsAlgorithm/1.0.0": {
+        "runtime": {
+          "Cards_Logic_LuhnsAlgorithm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cards_Logic_LuhnsAlgorithm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
